@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "3aff8592-5f2e-46ef-b2fc-a5cab06b5c89",
+		"name": "Natour-Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Natour-test1",
+			"item": [],
+			"id": "2ed65da9-202e-44bb-ab8b-4c9b557cc5bc"
+		},
+		{
+			"name": "New Request",
+			"id": "acd2b2cd-e65f-4d52-9184-eb8806f0734b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
